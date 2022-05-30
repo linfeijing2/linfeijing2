@@ -1,8 +1,7 @@
 - 👋 Hi, I’m linfei
-- 👀 I’m interested in internships/new_grad of SDE
-- 🌱 I’m currently looking for internships/new_grad of SDE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m looking for full-time job of SDE
+- 💞️ I’m looking forward to collaborate with a creative team 
+- 📫 How to reach me: linfeijing2@gmail.com
 
 <!---
 linfeijing2/linfeijing2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
